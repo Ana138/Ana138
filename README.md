@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Estudando Python
+- 😄 Pronouns: Ela/Dela
 -->
+## ᴡᴇʟᴄᴏᴍᴇ! ɪ'ᴍ ᴀɴᴀ ᴍᴇɴᴅᴇs, ɢʀᴀᴅᴜᴀᴛᴇᴅ ɪɴ sʏsᴛᴇᴍs ᴀɴᴀʟʏsɪs ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, sᴛᴜᴅʏɪɴɢ ᴘᴏsᴛɢʀᴀᴅᴜᴀᴛᴇ ɪɴ sᴏғᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ, ᴅᴇᴠᴏᴘs ᴀɴᴅ ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ.
+
+<div> 
+  <a href = "mailto:anajessica.mdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ana-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href = "https://github.com/Ana138"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+ 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
