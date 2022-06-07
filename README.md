@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **Ana138/Ana138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 - 🌱 Estudando Python
 - 😄 Pronouns: Ela/Dela
 -->
-## ᴡᴇʟᴄᴏᴍᴇ! ɪ'ᴍ ᴀɴᴀ ᴍᴇɴᴅᴇs, ɢʀᴀᴅᴜᴀᴛᴇᴅ ɪɴ sʏsᴛᴇᴍs ᴀɴᴀʟʏsɪs ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, sᴛᴜᴅʏɪɴɢ ᴘᴏsᴛɢʀᴀᴅᴜᴀᴛᴇ ɪɴ sᴏғᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ, ᴅᴇᴠᴏᴘs ᴀɴᴅ ᴄʟᴏᴜᴅ ᴄᴏᴍᴘᴜᴛɪɴɢ.
+## ʙᴇᴍ-ᴠɪɴᴅxs! sᴏᴜ ᴀɴᴀ ᴍᴇɴᴅᴇs, ғᴏʀᴍᴀᴅᴀ ᴇᴍ ᴀɴᴀ́ʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs ᴇ ᴄᴜʀsᴀɴᴅᴏ ᴘᴏ́s ɢʀᴀᴅᴜᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ᴇɴɢᴇɴʜᴀʀɪᴀ ᴅᴇ sᴏғᴛᴡᴀʀᴇ, ᴅᴇᴠᴏᴘs ᴇ ᴄᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ɴᴜᴠᴇᴍ.
+
 
 <div> 
   <a href = "mailto:anajessica.mdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
