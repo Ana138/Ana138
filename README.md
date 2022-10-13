@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando Python
 - 😄 Pronouns: Ela/Dela
 -->
-## ʙᴇᴍ-ᴠɪɴᴅxs! sᴏᴜ ᴀɴᴀ ᴍᴇɴᴅᴇs, ғᴏʀᴍᴀᴅᴀ ᴇᴍ ᴀɴᴀ́ʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs ᴇ ᴄᴜʀsᴀɴᴅᴏ ᴘᴏ́s ɢʀᴀᴅᴜᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ᴇɴɢᴇɴʜᴀʀɪᴀ ᴅᴇ sᴏғᴛᴡᴀʀᴇ, ᴅᴇᴠᴏᴘs ᴇ ᴄᴏᴍᴘᴜᴛᴀᴄ̧ᴀ̃ᴏ ᴇᴍ ɴᴜᴠᴇᴍ.
+## ʙᴇᴍ-ᴠɪɴᴅxs!
 
 
 <div> 
