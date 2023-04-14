@@ -25,9 +25,11 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/ana-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
+  [![@anamendes's Holopin board](https://holopin.me/anamendes)](https://holopin.io/@anamendes)
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  [![@anamendes's Holopin board](https://holopin.me/anamendes)](https://holopin.io/@anamendes)
+  
  
 </div>
 
