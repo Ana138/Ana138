@@ -17,19 +17,17 @@ Here are some ideas to get you started:
 -->
 ## ʙᴇᴍ-ᴠɪɴᴅxs!
 
-
-
-
-<div> 
-  <a href = "mailto:anajessica.mdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ana-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
   [![@anamendes's Holopin board](https://holopin.me/anamendes)](https://holopin.io/@anamendes)
   
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  
+## Contatos:  
+<div> 
+  <a href = "mailto:anajessica.mdo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ana-mdo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
