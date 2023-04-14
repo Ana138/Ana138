@@ -1,5 +1,12 @@
 ### Olá 👋
 ~ em construção ~ 
+
+Quem sou? 
+- Formada em Análise e Desenvolvimento de Sistemas
+- Pós graduanda em Engenharia de Software, DevOps e Computação em Nuvem
+- DevOps no TJCE
+- Monitora na trilha de DevOps Básico no [IT Talent](https://programaittalent.com.br/)
+
 <!--
 **Ana138/Ana138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ela/Dela
 -->
 ## ʙᴇᴍ-ᴠɪɴᴅxs!
+
+
 
 
 <div> 
