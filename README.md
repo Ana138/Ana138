@@ -3,7 +3,7 @@
 
 Quem sou? 
 - Formada em Análise e Desenvolvimento de Sistemas 🎓
-- Pós graduanda em Engenharia de Software, DevOps e Computação em Nuvem ☁ 
+- Pós graduada em Engenharia de Software, DevOps e Computação em Nuvem ☁ 
 - Membro da comunidade [DevOpsDays Fortaleza](https://devopsdays.org/events/2023-fortaleza/contact) ♾️
 - DevOps no TJCE 👩‍💻
 - Monitora na trilha de DevOps Básico no [IT Talent](https://programaittalent.com.br/) 👩‍🏫
